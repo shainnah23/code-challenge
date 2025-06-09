@@ -1,5 +1,4 @@
-
-
+// Function to estimate transaction fee for sending money
 function estimateTransactionFee() {
     // Step 1: Ask user for amount to send
     let input = prompt("Unatuma Ngapi? (KES):");
